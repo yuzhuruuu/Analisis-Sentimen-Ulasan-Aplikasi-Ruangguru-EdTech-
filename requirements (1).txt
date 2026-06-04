@@ -1,9 +1,0 @@
-google-play-scraper
-Sastrawi
-tensorflow
-scikit-learn
-pandas
-numpy
-matplotlib
-imbalanced-learn
-wordcloud
